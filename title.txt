@@ -1,0 +1,13 @@
+---
+title:
+- type: main
+  text: Full Stack Sin Misterios
+- type: subtitle
+  text: Una guía indoloro
+creator:
+- role: author
+  text: Victor Kane
+- role: editor
+  text: Veronica Karen Vedia Flores
+rights: © 2016 Victor Kane, CC BY-NC
+...

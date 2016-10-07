@@ -1,0 +1,1 @@
+## C2 Que es una app full stack
